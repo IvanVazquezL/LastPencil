@@ -14,7 +14,7 @@ public class Main {
         String secondPlayer = getSecondPlayersName(firstPlayer);
         boolean isFirstPlayersTurn = true;
 
-        // turnaround for nextLine error
+        // workaround for nextLine error
         scanner.nextLine();
 
         while(numberOfPencils > 0) {

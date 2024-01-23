@@ -1,3 +1,5 @@
+package UserVsUser;
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.InputMismatchException;
